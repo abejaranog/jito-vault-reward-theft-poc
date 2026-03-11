@@ -209,7 +209,7 @@ Move balance reconciliation into `CloseVaultUpdateStateTracker` so it happens at
 
 This PoC is submitted under responsible disclosure practices. The vulnerability has not been exploited on mainnet or shared publicly. We request coordinated disclosure with the Jito Foundation security team.
 
-**Contact:** [Your contact info for Immunefi submission]  
+**Contact:** Alejandro Bejarano - @abejaranog 
 **Date:** March 11, 2026
 
 ---
